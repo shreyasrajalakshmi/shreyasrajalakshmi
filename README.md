@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" align="center" style="width: 100%" />
+<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" align="center" style="width: 100%" />
 </div>  
   
 
