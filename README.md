@@ -6,13 +6,12 @@
 ### <div align="center">I'm Shreyas R 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on luminar techno lab  
+
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
