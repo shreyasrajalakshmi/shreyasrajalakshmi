@@ -16,7 +16,11 @@
   
 
 -👋 Hi, I'm Shreyas R!
--👋 Hi, I'm Shreyas R!
+# 👋 Hi, I'm Shreyas R!  
+💻 M.Tech Computer Science | AI & Data Science @ CUSAT  
+🚀 Passionate about Machine Learning, Data Science & AI  
+🔬 Currently working on an ML Pipeline project  
+
 
 -  ⚡ Fun fact: I use tabs over spaces  
   
