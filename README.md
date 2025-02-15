@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" align="center" style="width: 50%" />
+<img src="https://github.com/rudrabarad/Gifs" align="center" style="width: 50%" />
 </div>  
   
 
