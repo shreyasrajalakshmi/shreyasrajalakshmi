@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/rudrabarad/Gifs" align="center" style="width: 50%" />
+<img src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" style="width: 50%" />
 </div>  
   
 
