@@ -1,10 +1,6 @@
 <!-- 🔥 ULTRA-MODERN ANIMATED HEADER 🔥 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=120&lines=Hi%2C+I'm+Shreyas+R+%F0%9F%91%8B;AI+%26+Data+Science+Specialist+%F0%9F%A7%A0;Computer+Vision+%26+Deep+Learning+Engineer+%F0%9F%9A%80;Building+Scalable+ML+Pipelines+%E2%9A%A1" alt="Shreyas R Animated Banner" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyasrajalakshmi&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=110&lines=Hi%2C+I'm+Shreyas+R+%F0%9F%91%8B;AI+%26+Data+Science+Specialist+%F0%9F%A7%A0;Computer+Vision+%26+Deep+Learning+Engineer+%F0%9F%9A%80;Building+Scalable+ML+Pipelines+%E2%9A%A1" alt="Shreyas R Animated Banner" />
 </p>
 
 ---
@@ -48,13 +44,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyasrajalakshmi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" width="95%" />
-</p>
-
----
-
 ### 📊 Performance & Analytics
 
 <p align="center">
@@ -84,5 +73,7 @@
 
 ---
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,24&height=100&section=footer" width="100%"/>
+</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,24&height=100&section=footer" width="100%"/>
 </p>
